@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/01.exercicio-um/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/02.exercicio-dois/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/03.exercicio-tres/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/04.exercicio-quatro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/05.exercicio-cinco/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/06.exercicio-seis/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/07.exercicio-sete/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/08.exercicio-oito/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/09.exercicio-nove/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/10.exercicio-dez/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lista-6-(HerançaePolimorfismo)/11.exercicio-onze/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
